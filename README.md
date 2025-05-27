@@ -88,9 +88,3 @@ This assignment implements a basic Android application with user authentication 
 - Input is validated before registration
 - All screens are **fully responsive**
 - Built 100% from scratch with clean, readable code
-
----
-
-##  Screenshots
-
-Place screenshots in `res/` or project root and update paths above accordingly.
