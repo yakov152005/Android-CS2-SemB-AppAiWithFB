@@ -26,7 +26,8 @@ This assignment implements a basic Android application with user authentication 
 - On successful login → navigates to Home
 - If user does not exist → shows error
 
-![Login Screen](screenshots/Login_App.png)
+<img src="screenshots/Login_App.png" alt="Login Screen" width="400"/>
+
 
 ---
 
