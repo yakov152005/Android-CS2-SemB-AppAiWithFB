@@ -37,7 +37,8 @@ This assignment implements a basic Android application with user authentication 
 - On success → new user is added to Firebase DB under `users/{uid}`
 - Navigates to Home screen
 
-![Register Screen](screenshots/RegisterApp.png)
+<img src="screenshots/RegisterApp.png" alt="Register Screen" width="400"/>
+
 
 ---
 
@@ -49,7 +50,7 @@ This assignment implements a basic Android application with user authentication 
     - **Load the saved description**
     - **Logout** (and return to login screen)
 
-![Home Screen](screenshots/Home_App.png)
+<img src="screenshots/Home_App.png" alt="Home Screen" width="400"/>
 
 ---
 
@@ -65,23 +66,30 @@ This assignment implements a basic Android application with user authentication 
 
 ##  Folder Structure
 
-app/
-├── java/com.example.myapplication/
-│ ├── LoginFragment.java
-│ ├── RegisterFragment.java
-│ ├── HomeFragment.java
-│ ├── HelpMethods.java
-│ ├── MainActivity.java
-│ ├── Person.java
-├── res/layout/
-│ ├── login_fragment.xml
-│ ├── register_fragment.xml
-│ ├── home_fragment.xml
-│ ├── activity_main.xml
-├── res/drawable/
-│ └── rounded_edittext.xml
-├── navigation/
-│ └── navigation_bar.xml
+MyApplicationAiWithFB/
+├── app/
+│   ├── java/com/example/myapplication/
+│   │   ├── LoginFragment.java
+│   │   ├── RegisterFragment.java
+│   │   ├── HomeFragment.java
+│   │   ├── HelpMethods.java
+│   │   ├── MainActivity.java
+│   │   └── Person.java
+│   ├── res/layout/
+│   │   ├── login_fragment.xml
+│   │   ├── register_fragment.xml
+│   │   ├── home_fragment.xml
+│   │   └── activity_main.xml
+│   ├── res/drawable/
+│   │   └── rounded_edittext.xml
+│   └── navigation/
+│       └── navigation_bar.xml
+├── screenshots/
+│   ├── Login_App.png
+│   ├── RegisterApp.png
+│   └── Home_App.png
+├── README.md
+
 
 
 ---
