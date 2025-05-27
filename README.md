@@ -64,36 +64,6 @@ This assignment implements a basic Android application with user authentication 
 
 ---
 
-##  Folder Structure
-
-MyApplicationAiWithFB/
-├── app/
-│   ├── java/com/example/myapplication/
-│   │   ├── LoginFragment.java
-│   │   ├── RegisterFragment.java
-│   │   ├── HomeFragment.java
-│   │   ├── HelpMethods.java
-│   │   ├── MainActivity.java
-│   │   └── Person.java
-│   ├── res/layout/
-│   │   ├── login_fragment.xml
-│   │   ├── register_fragment.xml
-│   │   ├── home_fragment.xml
-│   │   └── activity_main.xml
-│   ├── res/drawable/
-│   │   └── rounded_edittext.xml
-│   └── navigation/
-│       └── navigation_bar.xml
-├── screenshots/
-│   ├── Login_App.png
-│   ├── RegisterApp.png
-│   └── Home_App.png
-├── README.md
-
-
-
----
-
 ## How to Run
 
 1. Open the project in **Android Studio**
